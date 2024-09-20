@@ -213,6 +213,9 @@ def gerar_relatorio_html():
 def menu():
     while True:
         print('=============================')
+        print('Livraria do TOBIAS')
+        print('=============================')
+        print('=============================')
         print("\n1. Adicionar novo livro")
         print("2. Exibir todos os livros")
         print("3. Atualizar preço de um livro")
